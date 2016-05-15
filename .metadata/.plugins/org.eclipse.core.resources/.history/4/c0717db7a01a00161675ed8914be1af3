@@ -1,0 +1,5 @@
+package springmvcbasic;
+
+public class MessageController {
+
+}
